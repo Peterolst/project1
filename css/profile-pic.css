@@ -1,0 +1,6 @@
+/*! Profile picture styling */
+
+.profilePic {
+	position: absolute;
+	border-radius: 15px;
+}
